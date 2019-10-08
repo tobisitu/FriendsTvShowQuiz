@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FriendsTvShow/static/css/main.b27e1912.chunk.css",
+    "main.js": "/FriendsTvShow/static/js/main.e43c9858.chunk.js",
+    "main.js.map": "/FriendsTvShow/static/js/main.e43c9858.chunk.js.map",
+    "runtime-main.js": "/FriendsTvShow/static/js/runtime-main.57d934bd.js",
+    "runtime-main.js.map": "/FriendsTvShow/static/js/runtime-main.57d934bd.js.map",
+    "static/js/2.6be8d630.chunk.js": "/FriendsTvShow/static/js/2.6be8d630.chunk.js",
+    "static/js/2.6be8d630.chunk.js.map": "/FriendsTvShow/static/js/2.6be8d630.chunk.js.map",
+    "index.html": "/FriendsTvShow/index.html",
+    "precache-manifest.15fa95b0dd7f2c1cacf44ad1002d0083.js": "/FriendsTvShow/precache-manifest.15fa95b0dd7f2c1cacf44ad1002d0083.js",
+    "service-worker.js": "/FriendsTvShow/service-worker.js",
+    "static/css/main.b27e1912.chunk.css.map": "/FriendsTvShow/static/css/main.b27e1912.chunk.css.map",
+    "static/media/friends.png": "/FriendsTvShow/static/media/friends.03d08b59.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57d934bd.js",
+    "static/js/2.6be8d630.chunk.js",
+    "static/css/main.b27e1912.chunk.css",
+    "static/js/main.e43c9858.chunk.js"
+  ]
+}
