@@ -1,5 +1,6 @@
 .App {
     text-align: center;
+    background-color: #fff;
 }
 
 .App-logo {
@@ -7,8 +8,8 @@
 }
 
 .App-header {
-    background-color: #ffffff;
-    min-height: 100vh;
+    background-color: #404E7C;
+    min-height: 30vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -22,11 +23,57 @@
 }
 
 .App-intro {
-    margin-top: 2.5rem;
+    margin-top: 5rem;
+}
+
+.App-intro p {
+    font-size: 1.4rem;
 }
 
 .Begin-button {
     padding: 1rem;
-    /* margin-top: 5rem; */
     border-radius: 30px;
+    background-color: #DBCBD8;
+    border-color: #DBCBD8;
+    color: #101935;
+    font-size: 1.2rem;
+    margin-top: 5rem;
+}
+
+.Question h1 {
+    margin-top: 2rem;
+}
+
+.option-A,
+.option-B,
+.option-C {
+    padding: 1rem;
+    background-color: #ffffff;
+    color: #000;
+    border: #fff;
+}
+
+.End-quiz,
+.Next-question {
+    margin: 0.4rem;
+    padding: 1rem;
+    border-radius: 30px;
+}
+
+.Next-question {
+    background-color: #DBCBD8;
+    border-color: #DBCBD8;
+    color: #101935;
+}
+
+.End-quiz {
+    background-color: #37393A;
+    border-color: #37393A;
+    color: #fff;
+}
+
+.QuestionContainer {
+    border: 2px solid #404E7C;
+    padding: 3rem;
+    margin-top: 1rem;
 }
